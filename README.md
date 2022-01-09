@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**aamitttt/aamitttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hii There 👋
 
 - 🔭 I’m currently working on data science for social good
 - 🌱 I’m currently learning  model deployment
@@ -11,4 +6,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about tech related stuff
 - 📫 How to reach me- email: amit.kumar.che20@itbhu.ac.in
 - ⚡ Fun fact: I know it's crazy, but I love to eat !
--->
+
+                           
+                           
+                          Interested in Machine Learning 🤖 and Data Science 📊
