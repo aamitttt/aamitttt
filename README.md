@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning  model deployment
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about tech related stuff
-- 📫 How to reach me- email: amit.kumar.che20@itbhu.ac.in
--                      twitter: https://twitter.com/Amit__Rathaur
+- 📫 How to reach me- email: amit.kumar.che20@itbhu.ac.in , twitter: https://twitter.com/Amit__Rathaur    
 - ⚡ Fun fact: I know it's crazy, but I love to eat !
 
                            
