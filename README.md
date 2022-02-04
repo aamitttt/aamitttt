@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Amit Kumar</h1>
-<h3 align="center">Interested in Machine Learning 🤖 and Data Science 📊</h3>
+<h3 align="center">Interested in Machine Learning 🤖 and web development 📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitttt&label=Profile%20views&color=0e75b6&style=flat" alt="aamitttt" /> </p>
 
