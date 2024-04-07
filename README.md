@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Amit Kumar</h1>
-<h3 align="center">Interested in Machine Learning 🤖 and web development 📊</h3>
+<h3 align="center">Interested in Data Science 🤖 and web development 📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamitttt&label=Profile%20views&color=0e75b6&style=flat" alt="aamitttt" /> </p>
 
@@ -7,19 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/amit__rathaur" target="blank"><img src="https://img.shields.io/twitter/follow/amit__rathaur?logo=twitter&style=for-the-badge" alt="amit__rathaur" /></a> </p>
 
-- 🔭 I’m currently working on **data science for social good**
 
-- 🌱 I’m currently learning **model deployment**
+- 📫 How to reach me **ak7rathaur@gmail.com**
 
-- 👯 I’m looking to collaborate on **YouTube**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aamitttt](https://github.com/aamitttt)
-
-- 💬 Ask me about **Tech stuff**
-
-- 📫 How to reach me **amit.kumar.che20@itbhu.ac.in**
-
-- ⚡ Fun fact **I know it's crazy, but I love to eat !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
