@@ -11,9 +11,9 @@
 - 📫 How to reach me **ak7rathaur@gmail.com**
 
 - **Skills**
-- **Programming Language** Python, JavaScript, C++, Java
-- **Data Science** Data preprocessing, ML algorithms, Neural Networks, NLP, Gen. Ai
-- **Web Development** React.Js, Node.Js, Spring-boot, Docker, MySql, AWS
+- **Programming Language :** Python, JavaScript, C++, Java
+- **Data Science :** Data preprocessing, ML algorithms, Neural Networks, NLP, Gen. Ai
+- **Web Development :** React.Js, Node.Js, Spring-boot, Docker, MySql, AWS
 
 
 
