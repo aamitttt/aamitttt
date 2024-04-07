@@ -12,7 +12,7 @@
 
 - **Skills**
 - **Programming Language :** Python, JavaScript, C++, Java
-- **Data Science :** Data preprocessing, ML algorithms, Neural Networks, NLP, Gen. Ai
+- **Data Science :** Data preprocessing, ML algorithms, Neural Networks, NLP, Gen. Ai (LLM)
 - **Web Development :** React.Js, Node.Js, Spring-boot, Docker, MySql, AWS
 
 
